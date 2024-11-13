@@ -1,85 +1,96 @@
 SAI SUBRAHMANYAM MAHADASA
 saimahadasa1999@gmail.com | 660-528-5209 | Overland Park, Kansas, United States
 https://www.linkedin.com/in/sai-subrahmanyam-mahadasa/
-Frontend Developer | Full Stack Developer | Senior Web Applications Developer
-Frontend and Full Stack Developer with over 4 years of experience building highly scalable, responsive, and
-maintainable web applications. Expert in JavaScript, React.js, Python, Java and integrating APIs, with a strong
-background in working with AWS, cloud infrastructure, and modern front-end tools. Known for improving user
-experiences, optimizing application performance, and leading innovative projects across healthcare and
-cryptocurrency industries.
+https://saimahadasa.netlify.app/
+Frontend Developer | Full Stack Developer | Generative AI Developer
+Driven software developer with over 4 years of experience creating high-performance, user-centric web
+applications. Skilled in building scalable, secure, and responsive solutions with a solid foundation in JavaScript,
+React.js, Python, and Node.js. Experienced in Generative AI, including developing Retrieval-Augmented
+Generation (RAG) systems to enhance information retrieval and user engagement. Strong background in AWS,
+cloud infrastructure, API integrations, and modern development frameworks. Recognized for enhancing user
+experiences, optimizing performance, and delivering successful projects across healthcare, fintech, and
+blockchain domains.
 PROFESSIONAL EXPERIENCE
-FRONTEND DEVELOPER
-Mar 2020- Jan 2022
+FULL STACK DEVELOPER Aug 2024 - Present
+Our National Conversation | Los Angeles, US
+Led the development of a dynamic news aggregation platform using django and React.js, integrating multiple News
+APIs and Generative AI Large Language Models (Nvidia, OpenAI, llama APIs) to deliver real-time, personalized news
+content based on user preferences and search queries.
+Efficiently integrated RESTful News APIs and vector databases for seamless retrieval and display of
+up-to-the-minute headlines and multimedia content. Implemented data caching to optimize API performance and
+response times.
+Architected end-to-end solutions, managing both front-end interfaces in React.js and back-end services in Django,
+including a chatbot built with Python, Django, and integrated into a Next.js app. Ensured scalable, maintainable
+code structures to elevate user experience and interaction.
+Delivered fully responsive, mobile-optimized applications using Tailwind CSS and React hooks, enhancing UI/UX for
+smooth cross-device functionality.
+FRONTEND DEVELOPER Feb 2022- Jun 2023
+Rapid Innovations | Noida, India
+Developed high-performance, responsive user interfaces for (DAPPS) Web3 applications, including an NFT
+marketplace and Radius Protocol, using React.js and TypeScript, Redux, enhancing user engagement and ensuring
+seamless interactions with blockchain features.
+Developed and integrated complex Web3 functionalities, such as wallet connections (MetaMask, WalletConnect,
+Coinbase) and smart contract interactions for token transactions, which enabled users to effortlessly manage
+digital assets within a decentralized environment.
+Collaborated with blockchain engineers to design and deploy secure and efficient smart contracts, directly
+supporting NFT minting, staking, listing, and trading features, while adhering to industry security standards and
+optimizing gas usage.
+Integrated Generative AI capabilities by building a chatbot for cryptocurrency users using OpenAI's API and
+Langchain, leveraging NLP for natural language understanding. Utilized FAISS Index and a vector database for
+efficient semantic search, enhancing query responses.
+Incorporated Huggingface Embeddings to improve the chatbot’s ability to understand and process complex user
+queries related to cryptocurrency, enabling automated, real-time customer support and significantly improving
+user engagement and experience.
+Enhanced blockchain integration with Web3.js, improving transaction success rates by 25% through seamless
+MetaMask interaction.
+Streamlined state management and data fetching using Redux and GraphQL, reducing load times by 40%.
+FULL STACK DEVELOPER Mar 2020- Jan 2022
 Multiplier AI Solutions | Hyderabad, India
 Designed and developed interactive, responsive UIs using React.js, Styled Components, and Tailwind CSS,
 improving patient satisfaction and reducing support costs.
-Developed secure RESTful APIs with Node.js and Express.js, Java SpringBoot for patient service applications,
-implementing JWT for user authentication and reducing unauthorized access.
-Streamlined data management with MongoDB and Redux, enhancing application performance and scalability,
-and reducing downtime by 40%.
+Developed secure RESTful APIs with Node.js and Express.js for patient service applications, implementing JWT for
+user authentication and reducing unauthorized access in patients dashboard for Manipal Hospitals.
+Worked with CRMS and streamlined data management with mySQL and redis caching, enhancing application
+performance, and scalability and reducing downtime by 40%.
 Deployed healthcare web applications on AWS cloud services, optimizing for performance and scalability, leading
 to a 20% boost in page load speed.
 Improved user engagement by building dynamic, user-friendly web applications, resulting in a 15% reduction in
 bounce rates and a 10% increase in patient retention.
-Led code optimization and security initiatives, ensuring secure data handling and reducing reported
-vulnerabilities by 30%.
+Integrated third party APIs for SMS and Whatsapp campaigns targeting patients. Led code optimization and
+security initiatives, ensuring secure data handling and reducing reported vulnerabilities by 30%.
 Integrated localization features to support multiple languages, including LLCC to ENUS transitions, enhancing
 accessibility for global users.
-FRONTEND DEVELOPER
-Feb 2022- Jun 2023
-Rapid Innovations | Noida, India
-Led the development of secure and scalable NFT and crypto platforms using React.js, TypeScript, and Web3,
-resulting in a 30% increase in user adoption.
-Enhanced blockchain integration with Web3.js, improving transaction success rates by 25% through seamless
-MetaMask interaction.
-Optimized UI/UX using Next.js and Tailwind CSS, increasing user satisfaction by 20% and reducing bounce rates
-by 15%.
-Led efforts to implement new auto-pilot/auto-refresh features, and added communication and notification
-capabilities for stakeholders in localization projects.
-Conducted unit testing with Jest, improving the reliability of the application and reducing critical bugs by 25%
-Streamlined state management and data fetching using Redux and GraphQL, reducing load times by 40%.
-Collaborated with cross-functional teams to deliver high-quality projects on time, maintaining a 100% project
-delivery rate.
-FULL STACK DEVELOPER
-Aug 2024 - Present
-Our National Conversation | Los Angeles, US
-Led the development of a dynamic news aggregation platform using Django and React.js, integrating multiple
-News APIs to deliver real-time, personalized news content based on user preferences and search queries.
-Efficiently integrated RESTful News APIs, ensuring seamless retrieval and display of up-to-the-minute headlines,
-articles, and multimedia content. Implemented data caching to optimize API performance and reduce response
-times.
-Architected end-to-end solutions, managing both front-end user interfaces with React.js and robust back-end
-services in Django. Ensured scalable, maintainable code structures for enhanced user experience and API
-interaction.
-Delivered fully responsive and mobile-optimized web applications, ensuring smooth interaction across devices
-and platforms. Employed modern front-end technologies like Tailwind CSS and React hooks to enhance UI/UX.
 EDUCATION
-Masters in Computer Science | Avila University (2023 - 2024) | CGPA (3.5/4)
+Masters in Computer Science | Avila University (2023 - 2024) | CGPA (3.5/4.0)
 Bachelors in Computer Science |Kakinada Institute of Engineering and Technology (2016 - 2020) | CGPA
 (7.2/10)
-CERTIFICATIONS / PROFESSIONAL TRAINING
-Frontend Development certificate | Coursera/Meta (2024)
 TECHNOLOGICAL SKILLS
-Programming Languages: JavaScript, TypeScript, Python, Java
-Frontend Development: React.js, Next.js, HTML5, CSS3, SASS, Bootstrap, Styled Components, Tailwind CSS
-Backend Development: Node.js, Express.js, RESTful APIs, MongoDB, Web Sockets, SpringBoot, Micro Services
-DevOps & Cloud: AWS, Heroku, Netlify, CI/CD, Git, GitHub, Docker
-Tools & Platforms: Agile & Scrum Methodologies, Data Structures, Webpack, Jest, Postman
+Languages: JavaScript, TypeScript, Python
+Frontend: React.js, Next.js, HTML5, CSS3, SASS, Bootstrap, Styled Components, Tailwind CSS
+Backend: Node.js, Express.js, Django, flask , LangChain, Generative AI, RAG, mySQL, Redis, WebSockets
+Cloud & DevOps: AWS, Cpanel, Docker, Git, GitHub, SMTP, domain and serval handling
+Testing & Optimization: Jest, Webpack, GraphQL, Postman
+Specialized Skills: Blockchain (Web3.js), API Integrations (REST, GraphQL), Microservices Architecture, Performance
+Optimization, working with CRMs
 AREAS OF EXPERTISE
-Proficiency in HTML/CSS • JavaScript Expertise • Experience with React.JS • Responsive and Adaptive
-Design • Proficiency in CSS Preprocessors (SASS, LESS) • Version Control with Git • Familiarity with
-Frontend Build Tools (Webpack, Babel) • State Management (Redux) • UI/UX Design Principles •
-Proficiency in TypeScript • API Integration (RESTful, GraphQL) • Knowledge of Testing Frameworks (Jest,
-Mocha) • Experience with Responsive Frameworks (Bootstrap, Tailwind CSS) • Experience with Web3.js and
-Blockchain Integration • Performance Optimization Techniques • Cross-Browser Development • Familiarity
-with Continuous Integration/Continuous Deployment (CI/CD) • Knowledge of Security Best Practices •
-Proficiency in Web Animation (CSS Animations, JavaScript Libraries) • Collaboration and Communication Skills
-Web Development: Expertise in JavaScript, Node.js, Django, SpringBoot and RESTful API integration
-Database Management: Proficiency in MongoDB, Redis, and database infrastructure scaling
-Performance Optimization: Techniques for reducing load times and boosting application performance
-Security Best Practices: Implementing secure authentication methods and reducing vulnerabilities
-Cross-Functional Collaboration: Working with diverse teams to deliver projects on time
+Proficiency in HTML/CSS • JavaScript Expertise • Experience with React.JS • Node.js • Experess.js • Mongo DB
+• AI Integration • Generative AI • Working with LLMs • building RAGs • Responsive and Adaptive Design •
+Proficiency in CSS Preprocessors (SASS, LESS) • Version Control with Git • Familiarity with Frontend Build Tools
+(Webpack, Babel) • React Query • Forms Using React-form-hook and zod • State Management (Redux) •
+UI/UX Design Principles • Proficiency in TypeScript • API Integration (RESTful, GraphQL) • Knowledge of Testing
+Frameworks (Jest) • Experience with Responsive Frameworks (Bootstrap, Tailwind CSS) • Blockchain Integration
+• Performance Optimization Techniques • Cross-Browser Development • Familiarity with Continuous
+Integration/Continuous Deployment (CI/CD) • Knowledge of Security Best Practices • Proficiency in Web
+Animation (CSS Animations, JavaScript Libraries) • Collaboration and Communication Skills
 PROJECTS
+Generative AI Chatbot Development:
+Developed advanced AI-powered chatbots using Python, Flask, LangChain, and fine-tuned large language
+models with OpenAI, Nvidia and Llama APIs, delivering real-time, dynamic customer interactions. Leveraged
+ChromaDB for efficient data retrieval, integrating LangChain for seamless chaining of responses and improved
+context management. Utilized RESTful APIs to fetch product data, handle complex user queries, and ensure a
+smooth user experience. Deployed in AWS to ensure scalability, high availability, and optimized performance,
+enhancing responsiveness and user engagement. Built an intuitive, high-performance frontend in React and
+TypeScript, providing a cohesive and interactive interface that maximizes customer satisfaction.
 SunPharma Prohance D & JR Survey Tool :
 Led the development of an online customer assistance and survey platform, utilizing React.js and Bootstrap to
 create responsive, role-based dashboards that improved user experience and engagement. Integrated Chart.js to
@@ -93,23 +104,17 @@ with React.js. Implemented Google Sign-In for streamlined user access and design
 transparent service offerings. Created an admin dashboard with advanced filters and pagination, allowing for
 efficient data management and analytics. Integrated user authentication for secure access, and optimized
 search visibility through keyword suggestions, contributing to a 20% improvement in local search rankings.
-Collaborated with backend teams using Node.js to ensure seamless data processing and API interactions.
+Collaborated with backend teams using python to ensure seamless data processing and API interactions.
 Deployed applications using AWS services, automating deployment pipelines and ensuring high scalability and
 performance
-PixelPark :
-Developed a sophisticated NFT marketplace platform enabling users to lock, vote, verify, and claim rewards for
-NFT collections through seamless crypto wallet integration. Delivered a pixel-perfect UI by adhering strictly to
-Figma designs, enhancing user experience and engagement. Utilized Redux for robust state management,
-ensuring smooth and scalable application performance. Integrated GraphQL APIs for efficient data handling and
-implemented Styled Components and TypeScript for maintainable and type-safe code, contributing to the
-platform's reliability and user satisfaction.
-Chatbot Developer:
-Developed a chatbot FOR Manipal hospitals using Node.js, Socket.IO, and Dialogflow, enabling real-time
-customer interaction for an e-commerce platform. Integrated the chatbot with RESTful APIs to fetch product
-data, handle user queries, and facilitate a smooth user experience. Implemented Web Sockets for real-time
-communication, reducing response times and enhancing user engagement. Utilized Dialogflow for natural
-language understanding, allowing the chatbot to handle a wide range of customer queries effectively.
+PixelPark NFT Marketplace :
+Developed a sophisticated NFT marketplace platform with crypto wallet integration, enabling users to lock, vote,
+verify, and claim rewards for NFT collections. Integrated an AI-powered chatbot using OpenAI's API and Langchain
+to provide real-time support and assist with NFT-related queries, enhancing user engagement. Delivered a
+pixel-perfect UI by strictly following Figma designs, utilizing Redux for robust state management and GraphQL
+APIs for efficient data handling. Implemented Styled Components and TypeScript for maintainable, type-safe
+code, ensuring reliability and user satisfaction.
 HOBBIES AND INTERESTS
-• Enjoys capturing and editing photos, focusing on the creative process and attention to detail.
+• Enjoys capturing and editing photos, focusing on the creative process, and attention to detail.
 • Plays chess regularly to enhance strategic thinking, patience, and problem-solving abilities.
-• Volunteers actively in community service, fostering teamwork, empathy, and a sense of social responsibility.
+• Volunteers actively in community service, fostering teamwork, empathy, and a sense of social responsibilit
