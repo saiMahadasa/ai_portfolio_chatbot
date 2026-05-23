@@ -1,120 +1,61 @@
 SAI SUBRAHMANYAM MAHADASA
-saimahadasa1999@gmail.com | 660-528-5209 | Overland Park, Kansas, United States
-https://www.linkedin.com/in/sai-subrahmanyam-mahadasa/
-https://saimahadasa.netlify.app/
-Frontend Developer | Full Stack Developer | Generative AI Developer
-Driven software developer with over 4 years of experience creating high-performance, user-centric web
-applications. Skilled in building scalable, secure, and responsive solutions with a solid foundation in JavaScript,
-React.js, Python, and Node.js. Experienced in Generative AI, including developing Retrieval-Augmented
-Generation (RAG) systems to enhance information retrieval and user engagement. Strong background in AWS,
-cloud infrastructure, API integrations, and modern development frameworks. Recognized for enhancing user
-experiences, optimizing performance, and delivering successful projects across healthcare, fintech, and
-blockchain domains.
-PROFESSIONAL EXPERIENCE
-FULL STACK DEVELOPER Aug 2024 - Present
-Our National Conversation | Los Angeles, US
-Led the development of a dynamic news aggregation platform using django and React.js, integrating multiple News
-APIs and Generative AI Large Language Models (Nvidia, OpenAI, llama APIs) to deliver real-time, personalized news
-content based on user preferences and search queries.
-Efficiently integrated RESTful News APIs and vector databases for seamless retrieval and display of
-up-to-the-minute headlines and multimedia content. Implemented data caching to optimize API performance and
-response times.
-Architected end-to-end solutions, managing both front-end interfaces in React.js and back-end services in Django,
-including a chatbot built with Python, Django, and integrated into a Next.js app. Ensured scalable, maintainable
-code structures to elevate user experience and interaction.
-Delivered fully responsive, mobile-optimized applications using Tailwind CSS and React hooks, enhancing UI/UX for
-smooth cross-device functionality.
-FRONTEND DEVELOPER Feb 2022- Jun 2023
-Rapid Innovations | Noida, India
-Developed high-performance, responsive user interfaces for (DAPPS) Web3 applications, including an NFT
-marketplace and Radius Protocol, using React.js and TypeScript, Redux, enhancing user engagement and ensuring
-seamless interactions with blockchain features.
-Developed and integrated complex Web3 functionalities, such as wallet connections (MetaMask, WalletConnect,
-Coinbase) and smart contract interactions for token transactions, which enabled users to effortlessly manage
-digital assets within a decentralized environment.
-Collaborated with blockchain engineers to design and deploy secure and efficient smart contracts, directly
-supporting NFT minting, staking, listing, and trading features, while adhering to industry security standards and
-optimizing gas usage.
-Integrated Generative AI capabilities by building a chatbot for cryptocurrency users using OpenAI's API and
-Langchain, leveraging NLP for natural language understanding. Utilized FAISS Index and a vector database for
-efficient semantic search, enhancing query responses.
-Incorporated Huggingface Embeddings to improve the chatbot’s ability to understand and process complex user
-queries related to cryptocurrency, enabling automated, real-time customer support and significantly improving
-user engagement and experience.
-Enhanced blockchain integration with Web3.js, improving transaction success rates by 25% through seamless
-MetaMask interaction.
-Streamlined state management and data fetching using Redux and GraphQL, reducing load times by 40%.
-FULL STACK DEVELOPER Mar 2020- Jan 2022
-Multiplier AI Solutions | Hyderabad, India
-Designed and developed interactive, responsive UIs using React.js, Styled Components, and Tailwind CSS,
-improving patient satisfaction and reducing support costs.
-Developed secure RESTful APIs with Node.js and Express.js for patient service applications, implementing JWT for
-user authentication and reducing unauthorized access in patients dashboard for Manipal Hospitals.
-Worked with CRMS and streamlined data management with mySQL and redis caching, enhancing application
-performance, and scalability and reducing downtime by 40%.
-Deployed healthcare web applications on AWS cloud services, optimizing for performance and scalability, leading
-to a 20% boost in page load speed.
-Improved user engagement by building dynamic, user-friendly web applications, resulting in a 15% reduction in
-bounce rates and a 10% increase in patient retention.
-Integrated third party APIs for SMS and Whatsapp campaigns targeting patients. Led code optimization and
-security initiatives, ensuring secure data handling and reducing reported vulnerabilities by 30%.
-Integrated localization features to support multiple languages, including LLCC to ENUS transitions, enhancing
-accessibility for global users.
+New York, NY | +1 660-528-5209 | saimahadasa1999@gmail.com | https://www.linkedin.com/in/sai-mahadasa/ | https://saimahadasa.com/
+Senior Full Stack Engineer | 5+ Years | Python, DevOps, Django, Gen AI, RAG, AWS, React
+
+WORK EXPERIENCE
+
+Perky (Perspective Partners LLC) | Client: Lincoln Financial Group
+Senior AI Engineer
+Mar 2024 – Present | New York, NY | Hybrid
+
+• Built end-to-end full stack features for a financial analytics platform using React, TypeScript, Python Django, GraphQL API, and PostgreSQL, delivering 25+ data-intensive dashboards with complex filtering, drilldown navigation, and real-time aggregations.
+• Managed Kubernetes deployments on AWS EKS with rolling updates, pod autoscaling, and health probes maintaining 99.9% uptime across containerized production services handling 20K+ records per request.
+• Engineered Python REST API services with PostgreSQL enforcing RBAC, JWT/OAuth, and audit logging for enterprise API governance.
+• Containerized with Docker, deployed to AWS (EC2, S3, RDS), and automated GitLab CI/CD, achieving 40% faster release cycles.
+• Leveraged GitHub Copilot and Claude AI to accelerate feature development, consistently reviewing and refining AI-generated code.
+
+Rapid Innovation | Client: ICICI Home Finance
+Software Developer
+Feb 2022 – Jun 2023 | Noida, India
+
+• Engineered RESTful and GraphQL APIs using Python Django secured with OAuth 2.0, powering financial analytics dashboards.
+• Containerized full stack applications using multi-stage Docker builds across development, staging, and production environments, cutting mean deployment time from 6 hours to under 45 minutes with consistent environment parity.
+• Optimized PostgreSQL execution plans and Redis cache strategies, improving platform performance by 35% and cutting dashboard load from 8s to 2s.
+• Enforced TDD with pytest, covering API contracts, ORM queries, and serializers, maintaining high test coverage across critical backend services.
+
+Multiplier AI Solutions | Client: Apollo Hospitals
+Software Developer
+Apr 2020 – Jan 2022 | Hyderabad, India
+
+• Configured GitHub Actions CI/CD pipelines with Docker containerization and Datadog APM instrumentation, reducing deployment time by 40% and improving production incident detection across environments.
+• Engineered an event-driven notification queue system with RBAC, enabling role-based alert routing across automated workflows.
+• Built React and TypeScript UI modules, improving screen responsiveness by 20% through debouncing, throttling, and component-level performance profiling.
+
+CERTIFICATIONS AND AWARDS
+
+NVIDIA AI RAG Developer Contest Winner, 2024
+AWS Certified Generative AI Engineer Associate, 2026
+AWS Certified Solutions Architect, 2021
+
+KEY PROJECTS
+
+HR Management Platform | Perky (Lincoln Financial Group)
+Technologies: Python, FastAPI, LangGraph, Kubernetes, React, TypeScript, AWS, Docker
+Built an enterprise HR benefits platform with an LLM-powered policy assistant enabling employee self-service query resolution and reducing HR support volume significantly. Designed for multi-tenant scale with RBAC enforcement, notifications, full audit trails, and compliance-grade workflows deployed across three AWS environments.
+
+Financial Analytics Platform | Rapid Innovation (ICICI Home Finance)
+Technologies: Python, Django, TypeScript, PostgreSQL, Redis, Docker, React, AWS
+Real-time financial analytics platform to monitor loan portfolio performance across 25+ dashboards with automated document processing workflows. Primary backend engineer owning API development, query performance tuning, and delivery pipeline setup — reducing dashboard load time by 75% and eliminating manual reporting bottlenecks for analyst teams.
+
+TECHNICAL SKILLS
+
+AI / GenAI: NLP, LangChain, LangGraph, RAG Pipelines, OpenAI Models, AWS Bedrock, Fine Tuning, MCP, ChromaDB, Ollama, Hugging Face, Agentic AI, GitHub Copilot, Cursor, Claude AI
+Backend: Python, FastAPI, Django, GraphQL, REST APIs, JWT/OAuth, RBAC, PostgreSQL, Redis, API Contract Design, Kafka
+Cloud / DevOps: AWS (EC2, S3, RDS, Bedrock, API Gateway), Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Terraform, SRE Practices
+Frontend: React.js, Next.js, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, HTML5, WCAG 2.1 Accessibility
+Testing: pytest, Jest, React Testing Library, Integration Testing, Regression Testing, Unit Testing
+
 EDUCATION
-Masters in Computer Science | Avila University (2023 - 2024) | CGPA (3.5/4.0)
-Bachelors in Computer Science |Kakinada Institute of Engineering and Technology (2016 - 2020) | CGPA
-(7.2/10)
-TECHNOLOGICAL SKILLS
-Languages: JavaScript, TypeScript, Python
-Frontend: React.js, Next.js, HTML5, CSS3, SASS, Bootstrap, Styled Components, Tailwind CSS
-Backend: Node.js, Express.js, Django, flask , LangChain, Generative AI, RAG, mySQL, Redis, WebSockets
-Cloud & DevOps: AWS, Cpanel, Docker, Git, GitHub, SMTP, domain and serval handling
-Testing & Optimization: Jest, Webpack, GraphQL, Postman
-Specialized Skills: Blockchain (Web3.js), API Integrations (REST, GraphQL), Microservices Architecture, Performance
-Optimization, working with CRMs
-AREAS OF EXPERTISE
-Proficiency in HTML/CSS • JavaScript Expertise • Experience with React.JS • Node.js • Experess.js • Mongo DB
-• AI Integration • Generative AI • Working with LLMs • building RAGs • Responsive and Adaptive Design •
-Proficiency in CSS Preprocessors (SASS, LESS) • Version Control with Git • Familiarity with Frontend Build Tools
-(Webpack, Babel) • React Query • Forms Using React-form-hook and zod • State Management (Redux) •
-UI/UX Design Principles • Proficiency in TypeScript • API Integration (RESTful, GraphQL) • Knowledge of Testing
-Frameworks (Jest) • Experience with Responsive Frameworks (Bootstrap, Tailwind CSS) • Blockchain Integration
-• Performance Optimization Techniques • Cross-Browser Development • Familiarity with Continuous
-Integration/Continuous Deployment (CI/CD) • Knowledge of Security Best Practices • Proficiency in Web
-Animation (CSS Animations, JavaScript Libraries) • Collaboration and Communication Skills
-PROJECTS
-Generative AI Chatbot Development:
-Developed advanced AI-powered chatbots using Python, Flask, LangChain, and fine-tuned large language
-models with OpenAI, Nvidia and Llama APIs, delivering real-time, dynamic customer interactions. Leveraged
-ChromaDB for efficient data retrieval, integrating LangChain for seamless chaining of responses and improved
-context management. Utilized RESTful APIs to fetch product data, handle complex user queries, and ensure a
-smooth user experience. Deployed in AWS to ensure scalability, high availability, and optimized performance,
-enhancing responsiveness and user engagement. Built an intuitive, high-performance frontend in React and
-TypeScript, providing a cohesive and interactive interface that maximizes customer satisfaction.
-SunPharma Prohance D & JR Survey Tool :
-Led the development of an online customer assistance and survey platform, utilizing React.js and Bootstrap to
-create responsive, role-based dashboards that improved user experience and engagement. Integrated Chart.js to
-visually represent survey data with dynamic charts and graphs, enhancing decision-making. Implemented
-third-party APIs for WhatsApp assistance and automated advertising campaigns, resulting in a 25% increase in
-customer interaction rates. Collaborated with backend teams using Node.js and MySQL to ensure seamless data
-management and real-time survey analysis.
-GMB DocRank AI :
-Developed an AI-driven tool to enhance local search rankings for doctors, leveraging Google My Business API
-with React.js. Implemented Google Sign-In for streamlined user access and designed a pricing listing feature for
-transparent service offerings. Created an admin dashboard with advanced filters and pagination, allowing for
-efficient data management and analytics. Integrated user authentication for secure access, and optimized
-search visibility through keyword suggestions, contributing to a 20% improvement in local search rankings.
-Collaborated with backend teams using python to ensure seamless data processing and API interactions.
-Deployed applications using AWS services, automating deployment pipelines and ensuring high scalability and
-performance
-PixelPark NFT Marketplace :
-Developed a sophisticated NFT marketplace platform with crypto wallet integration, enabling users to lock, vote,
-verify, and claim rewards for NFT collections. Integrated an AI-powered chatbot using OpenAI's API and Langchain
-to provide real-time support and assist with NFT-related queries, enhancing user engagement. Delivered a
-pixel-perfect UI by strictly following Figma designs, utilizing Redux for robust state management and GraphQL
-APIs for efficient data handling. Implemented Styled Components and TypeScript for maintainable, type-safe
-code, ensuring reliability and user satisfaction.
-HOBBIES AND INTERESTS
-• Enjoys capturing and editing photos, focusing on the creative process, and attention to detail.
-• Plays chess regularly to enhance strategic thinking, patience, and problem-solving abilities.
-• Volunteers actively in community service, fostering teamwork, empathy, and a sense of social responsibilit
+
+Master of Science in Computer Science — Avila University | GPA: 3.63/4.0 | Dec 2024
+Bachelor of Engineering in Computer Engineering — Kakinada Institute of Engineering and Technology | GPA: 3.58/4.0 | Mar 2020
