@@ -6,7 +6,8 @@ class Settings(BaseSettings):
 
     # llama-3.3-70b-versatile is Groq's free flagship — swap to llama-3.1-8b-instant for lower latency
     model_name: str = "llama-3.3-70b-versatile"
-    model_temperature: float = 0.2
+    model_temperature: float = 0.1      # lower = more precise factual recall, less rambling
+    max_response_tokens: int = 300      # hard ceiling — prevents the model from over-explaining
 
     resume_path: str = "pdf_text"
 
